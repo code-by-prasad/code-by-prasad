@@ -22,6 +22,21 @@
 - Education:  
   • MCA, SPPU – 73% (2022–2024)  
   • Python Full Stack Course – Django & React (2024–2025)
+  
+---
+
+### My Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsolanke&layout=compact&theme=radical" />
+</p>
+
+---
+
+### GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prasadsolanke&theme=onedark" />
+</p>
 
 ---
 
