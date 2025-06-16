@@ -1,33 +1,31 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Prasad Solanke</h1>
 <h3 align="center">Aspiring Python Full Stack Developer | Django & React Enthusiast</h3>
 
 ---
 
-- 🔭 I’m currently working on:  
+- I’m currently working on:  
   **A Social Media App using Django & React**
 
-- 🌱 I’m currently learning:  
+- I’m currently learning:  
   **Advanced React, Tailwind CSS, REST APIs**
 
-- 💼 Projects:  
+- Projects:  
   • [Personal Portfolio Website]  
   • [E-Commerce Web App]
 
-- 📫 Reach me at:  
+- Reach me at:  
   **solankeprasad07@gmail.com**
 
-- 📍 Location:  
+- Location:  
   Maharashtra, India
 
-- 🎓 Education:  
+- Education:  
   • MCA, SPPU – 73% (2022–2024)  
   • Python Full Stack Course – Django & React (2024–2025)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,7 +36,7 @@
 
 ---
 
-### ✨ Soft Skills
+### Soft Skills
 
 - 🤝 Team Collaboration  
 - ⚡ Quick Adaptability  
@@ -48,5 +46,5 @@
 ---
 
 <!-- Optional Footer -->
-<p align="center">🚀 Let's build something great together!</p>
+<p align="center">Let's build something great together!</p>
 
