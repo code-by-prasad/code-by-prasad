@@ -28,14 +28,14 @@
 ### My Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsolanke&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-prasad&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### GitHub Profile Trophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasadsolanke&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-by-prasad&theme=onedark" />
 </p>
 
 ---
